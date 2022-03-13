@@ -9,7 +9,7 @@ const  Navbar = ({toggle}) => {
     <>
         <Nav>
             <NavbarContainer>
-                <NavLogo to='/'>
+                <NavLogo to='home'>
                    <img src={logo} alt='stock-developer.png' className='nav-logo'/>
                 </NavLogo>
                 <MobileIcon onClick={toggle} >

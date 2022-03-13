@@ -10,7 +10,7 @@ const Footer = () => {
             <SocialMedia>
             <SocialMediaWrap>
                 <SocialLogo to='/'>
-                    <img src={logo} className='footerLogo'/>
+                    <img src={logo} />
                 </SocialLogo>
                 <WebsiteRights>Nupdal &copy; {new Date().getFullYear()} All Rights Reserved.</WebsiteRights>
                 <SocialIcons>
