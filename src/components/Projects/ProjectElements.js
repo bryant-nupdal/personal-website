@@ -61,6 +61,11 @@ export const ProjectIcon = styled.img`
     margin-bottom: 10px;
 `;
 
+export const ProjectIconLink = styled.a`
+    color: #FFFCF2;
+    font-size: 24px;
+`;
+
 export const ProjectH1 = styled.h1`
     font-size: 2.5rem;
     color: #252422;

@@ -28,7 +28,7 @@ export const NavbarContainer = styled.div`
     padding: 0 24px;
     max-width: 1100px;
     `
-export const NavLogo = styled(LinkRouter)`
+export const NavLogo = styled(LinkScroll)`
     color: #FFFCF2;
     justify-self: flex-start;
     cursor: pointer;
